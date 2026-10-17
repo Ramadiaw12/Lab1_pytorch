@@ -1,4 +1,3 @@
-# Lab1_pytorch
 # PyTorch Fundamentals — Gradients & Model Training
 
 ## 📌 Présentation
